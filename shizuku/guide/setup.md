@@ -1,3 +1,4 @@
+![Screenshot_2026-02-02-21-20-12-625_com android updater](https://github.com/user-attachments/assets/160bc8ec-d11a-45cc-a544-d9219a431f64)
 # User manual
 
 [[toc]]
